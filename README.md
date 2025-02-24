@@ -1,0 +1,1 @@
+This repository contains an example of a subtle bug in SQL related to NULL value handling in comparisons. The `bug.sql` file demonstrates the problem, while `bugSolution.sql` offers a solution using the IS NULL or IS NOT NULL operators.
